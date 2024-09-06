@@ -58,8 +58,7 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 
 ## **Visitor Counter**
 
-<a align="center" href="https://discord.com/users/924989476588109844"><img align="right" width=400 src="https://count.getloli.com/get/@
-AstroKotlin?theme=gelbooru"></a>
+<a align="center" href="https://discord.com/users/924989476588109844"><img align="right" width=400 src="https://count.getloli.com/get/@AstroKotlin?theme=gelbooru"></a>
 
 <!--
 **AstroKotlin/AstroKotlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

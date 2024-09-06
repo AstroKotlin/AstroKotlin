@@ -1,6 +1,6 @@
 <h3 align="center">My Profile</h3>
 
-<img src="https://images.hdqwalls.com/download/cherry-tree-anime-5d-2560x1080.jpg" align="center" height=150px width=1500px />
+<img src="https://images.hdqwalls.com/download/cherry-tree-anime-5d-2560x1080.jpg" align="center" height=200px width=1200px />
 
 <h3 align="center"><img align="center" width="425" src="https://lanyard.kyrie25.me/api/924989476588109844?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></h3>
 

@@ -2,6 +2,7 @@
 
 <a align="center" href="https://discord.com/users/924989476588109844">
 <img src="backg.png">
+<br>
 <img align="center" width=600 src="https://count.getloli.com/get/@AstroKotlin?theme=gelbooru"></a>
 
 ```php

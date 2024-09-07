@@ -48,7 +48,7 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 - **Frameworks**: React, Angular, Laravel...
 - **Tools**: Docker, Git, Jenkins...-->
 
-<h3 align="center"><img align="left" width="425" src="https://lanyard.kyrie25.me/api/924989476588109844?imgStyle=square&bg=0d1117&border-color=white&border-width=2px?showBanner=true?decoration=true"></h3><br>
+<img align="left" width="425" src="https://lanyard.kyrie25.me/api/924989476588109844?imgStyle=square&bg=0d1117&border-color=white&border-width=2px?showBanner=true?decoration=true"><br>
 
 ## **Github Stats**
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AstroKotlin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKotlin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>

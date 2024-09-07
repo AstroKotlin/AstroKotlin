@@ -1,7 +1,7 @@
 <h2 align="center"><u>My Profile</u></h2>
 
 <a align="center" href="https://discord.com/users/924989476588109844">
-<img src="backg.png">
+<img src="bgr.png">
 <br>
 <img align="center" width=600 src="https://count.getloli.com/get/@AstroKotlin?theme=gelbooru"></a>
 

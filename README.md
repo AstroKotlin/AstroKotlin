@@ -1,7 +1,6 @@
 <h2 align="center"><u>My Profile</u></h2>
 
-<img align="center" src="https://images.hdqwalls.com/download/cherry-tree-anime-5d-2560x1080.jpg" height=250px width=900px />
-
+<a align="center" href="https://discord.com/users/924989476588109844"><img align="center" width=600 src="https://count.getloli.com/get/@AstroKotlin?theme=gelbooru"></a>
 
 ```php
 final class AstroKotlin {
@@ -15,7 +14,6 @@ final class AstroKotlin {
 ## **About me**
 <a href="https://github.com/AstroKotlin"><img align="left" width="100" src="me.png"></a>
 Hello, world! I'm AstroKotlin, a passionate programmer with a diverse skill set that includes PHP, Python, JavaScript, CSS, HTML, and C++. My journey into the world of coding began in a unique and exciting way, and I'd love to share it with you.
-<a align="center" href="https://discord.com/users/924989476588109844"><img align="center" width=600 src="https://count.getloli.com/get/@AstroKotlin?theme=gelbooru"></a>
 <br><br>
 
 

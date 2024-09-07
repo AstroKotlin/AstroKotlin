@@ -49,7 +49,7 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 - **Tools**: Docker, Git, Jenkins...-->
 
 <h3>Stats</h3><br>
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AstroKotlin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKotlin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AstroKotlin&show_icons=true&count_private=true&theme=react&hide_border=false&border-radius=0&border-color=white&border-width=1&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKotlin&show_icons=true&count_private=true&theme=react&hide_border=false&border-radius=0&border-color=white&border-width=1&bg_color=0D1117&layout=compact"/>
 </p>
 
 ## **Visitor Counter**

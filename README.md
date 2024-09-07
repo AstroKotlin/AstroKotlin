@@ -51,7 +51,10 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 - **Tools**: Docker, Git, Jenkins...-->
 
 # Stats
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AstroKotlin&show_icons=true&count_private=true&theme=react&hide_border=false&border-radius=0&border-color=white&border-width=1&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKotlin&show_icons=true&count_private=true&theme=react&hide_border=false&border-radius=0&border-color=white&border-width=1&bg_color=0D1117&layout=compact"/>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AstroKotlin&show_icons=true&count_private=true&theme=react&hide_border=false&border-radius=0&border-color=white&theme=algolia&border-width=1&bg_color=0D1117"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKotlin&show_icons=true&count_private=true&theme=react&hide_border=false&border-radius=0&border-color=white&theme=algolia&border-width=1&bg_color=0D1117&layout=compact"/>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=Vasync&title_color=0C5851&theme=algolia&hide_border=true&border_radius=0" height=115px/>
 </p>
 
 <!--

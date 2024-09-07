@@ -2,8 +2,6 @@
 
 <img align="center" src="https://images.hdqwalls.com/download/cherry-tree-anime-5d-2560x1080.jpg" height=250px width=900px />
 
-<h3 align="center"><img align="center" width="425" src="https://lanyard.kyrie25.me/api/924989476588109844?imgStyle=square&bg=0d1117&border-color=white&border-width=2px?showBanner=true?decoration=true"></h3>
-
 
 ```php
 final class AstroKotlin {
@@ -49,7 +47,7 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 - **Languages**: PHP, C++, Python, CSS, HTML
 - **Frameworks**: React, Angular, Laravel...
 - **Tools**: Docker, Git, Jenkins...-->
-
+<h3 align="center"><img align="left" width="425" src="https://lanyard.kyrie25.me/api/924989476588109844?imgStyle=square&bg=0d1117&border-color=white&border-width=2px?showBanner=true?decoration=true"></h3>
 
 
 ## **Github Stats**

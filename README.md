@@ -3,7 +3,7 @@
 <a align="center" href="https://discord.com/users/924989476588109844">
 <img src="bgr.png">
 <br>
-<img align="center" width=600 src="https://count.getloli.com/get/@AstroKotlin?theme=gelbooru"></a>
+<a>Number of visitors: <img align="left" width=100 src="https://count.getloli.com/get/@AstroKotlin?theme=gelbooru"></a></a>
 
 ```php
 final class AstroKotlin {

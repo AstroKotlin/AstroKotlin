@@ -51,8 +51,8 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 - **Tools**: Docker, Git, Jenkins...-->
 
 # Stats
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AstroKotlin&show_icons=true&count_private=true&hide_border=true&theme=algolia&border-width=1&bg_color=00DCFF"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKotlin&show_icons=true&count_private=true&hide_border=true&theme=algolia&border-width=1&bg_color=00DCFF&layout=compact"/>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AstroKotlin&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKotlin&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient&layout=compact"/>
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Vasync&title_color=0C5851&theme=algolia&hide_border=true&border_radius=0" height=115px/>
 </p>

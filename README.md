@@ -3,7 +3,7 @@
 <a align="center" href="https://discord.com/users/924989476588109844">
 <img src="bgr.png">
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Vasync&title_color=0C5851&theme=matrix&hide_border=true&border_radius=0" height=115px/>
+
 </a>
 <br>
 
@@ -20,11 +20,12 @@ final class AstroKotlin {
 <a href="https://github.com/AstroKotlin"><img align="left" width="100" src="me.png"></a>
 Hello, world! I'm AstroKotlin, a passionate programmer with a diverse skill set that includes PHP, Python, JavaScript, CSS, HTML, and C++. My journey into the world of coding began in a unique and exciting way, and I'd love to share it with you.
 Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
+<img src="https://skillicons.dev/icons?i=git,cpp,php,css,discord,docker,postgres,dotnet,redis,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,ts,vscode,eclipse,idea,phpstorm,rider,webstorm,visualstudio&perline=14" />
 <br><br>
 
 ## **Stats**
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AstroKotlin&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKotlin&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient&layout=compact"/>
+<img width="45%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AstroKotlin&show_icons=true&count_private=true&hide_border=true&theme=ambient_gradient&layout=compact"/>
 <br>
 <a align="center"><img align="center" width=380 src="https://count.getloli.com/get/@AstroKotlin?theme=gelbooru"></a>
 </p>

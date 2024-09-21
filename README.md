@@ -20,7 +20,7 @@ final class AstroKotlin {
 <a href="https://github.com/AstroKotlin"><img align="left" width="100" src="me.png"></a>
 Hello, world! I'm AstroKotlin, a passionate programmer with a diverse skill set that includes PHP, Python, JavaScript, CSS, HTML, and C++. My journey into the world of coding began in a unique and exciting way, and I'd love to share it with you.
 Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
-<img src="https://skillicons.dev/icons?i=git,cpp,php,css,discord,docker,postgres,dotnet,redis,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,ts,vscode,eclipse,idea,phpstorm,rider,webstorm,visualstudio&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,cpp,php,css,discord,docker,postgres,dotnet,redis,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,ts,vscode,eclipse,idea,phpstorm,rider,webstorm,visualstudio&perline=12" />
 <br><br>
 
 ## **Stats**

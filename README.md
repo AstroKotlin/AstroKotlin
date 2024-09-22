@@ -31,6 +31,8 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 <a align="center"><img align="center" width=380 src="https://count.getloli.com/get/@AstroKotlin?theme=gelbooru"></a>
 </p>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AstroKotlin&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
 ## **📜The Long History of AstroKotlin**
 ### **• How I Started**
   My programming adventure began with PHP, but not in the traditional way most might expect. I was introduced to PHP through PocketMine-MP, an open-source server software for Minecraft: Pocket Edition. This experience was a game-changer—quite literally! As a Minecraft enthusiast, the idea of customizing and extending the game through plugins written in PHP was both fascinating and empowering.

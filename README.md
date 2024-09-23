@@ -25,7 +25,7 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 
 ## **Stats**
 
-![Askotlin GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient)
+![Askotlin GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroKotlin&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient)
 
 <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKotlin&layout=donut&theme=ambient_gradient" />
 <br>

@@ -32,7 +32,7 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 <a align="center"><img align="center" width=380 src="https://count.getloli.com/get/@AstroKotlin?theme=gelbooru"></a>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AstroKotlin&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 ## **📜The Long History of AstroKotlin**
 ### **• How I Started**
   My programming adventure began with PHP, but not in the traditional way most might expect. I was introduced to PHP through PocketMine-MP, an open-source server software for Minecraft: Pocket Edition. This experience was a game-changer—quite literally! As a Minecraft enthusiast, the idea of customizing and extending the game through plugins written in PHP was both fascinating and empowering.
@@ -51,7 +51,7 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 
 ### **• How do I feel about being a programmer?**
   Programming isn’t just a career for me—it’s a passion and a lifelong journey. I’m always looking to expand my knowledge, whether it’s learning a new programming language like Rust or diving into emerging fields like artificial intelligence and blockchain. I believe that the world of technology is ever-evolving, and as a programmer, it’s crucial to stay curious, adaptable, and open to new ideas.
-Thanks for reading!
+Thanks for reading!-->
 <!--Additionally, I have experience with the following technologies and frameworks:
 - **Languages**: PHP, C++, Python, CSS, HTML
 - **Frameworks**: React, Angular, Laravel...

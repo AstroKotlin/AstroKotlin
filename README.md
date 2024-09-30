@@ -29,7 +29,6 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 
 <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroKotlin&layout=donut&theme=ambient_gradient" />
 <br>
-<a align="center"><img align="center" width=380 src="https://count.getloli.com/get/@AstroKotlin?theme=gelbooru"></a>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AstroKotlin&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 

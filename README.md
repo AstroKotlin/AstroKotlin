@@ -1,4 +1,36 @@
-<h2 align="center"><u>My Profile</u></h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AstroKotlin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AstroKotlin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="left" width="100" src="me.png" />
+
+###
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,cpp,php,css,discord,docker,postgres,dotnet,redis,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,ts,vscode,eclipse,idea,phpstorm,rider,webstorm,visualstudio&perline=12" />
+
+###
+  <a href="https://www.youtube.com/@astrokotlin"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+  <a href="https://www.instagram.com/trhuyy.bao?igsh=MTllOWJ0ZGwzcHFkdg=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="https://discord.com/users/924989476588109844"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+<!--<h2 align="center"><u>My Profile</u></h2>
 
 <a align="center" href="https://discord.com/users/924989476588109844">
 <img src="bgr.png">
@@ -32,7 +64,7 @@ Popular programming languages: PHP, C++, Python, CSS, HTML,etc...
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AstroKotlin&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://astrokotlin.github.io/Home.png" />
+<img src="https://astrokotlin.github.io/Home.png" />-->
 <!--
 ## **📜The Long History of AstroKotlin**
 ### **• How I Started**

@@ -18,7 +18,7 @@ final class AstroKotlin {
 ###
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,cpp,php,css,discord,docker,postgres,dotnet,redis,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,ts,vscode,eclipse,idea,phpstorm,rider,webstorm,visualstudio&perline=11" />
+<img src="https://skillicons.dev/icons?i=git,cpp,php,css,discord,docker,postgres,dotnet,redis,github,html,java,js,linux,mysql,nextjs,nodejs,postman,py,react,ts,vscode,eclipse,idea,phpstorm,rider,webstorm,visualstudio&perline=15" />
 
 ###
   <a href="https://www.youtube.com/@astrokotlin"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>

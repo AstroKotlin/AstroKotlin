@@ -1,13 +1,4 @@
 <h2 align="left">Hi 👋! My name is AstroKotlin</h2>
-
-```php
-final class AstroKotlin {
-    public const NAME = "AstroKotlin";
-    public const AGE = "Hide";
-    public const LIVE = "Hide";
-    public const GITHUB_LINK = "https://github.com/AstroKotlin";
-}
-```
 ###
 
 <div align="center">

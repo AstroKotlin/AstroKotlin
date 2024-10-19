@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AstroKotlin</h1>
 <h3 align="center">I live and work in Asia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astrokotlin&label=Profile%20views&color=0e75b6&style=flat" alt="astrokotlin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astrokotlin&label=Profile%20views&color=0e75b6&style=flat&bg_color=010409&hide_border=true" alt="astrokotlin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astrokotlin&bg_color=010409&hide_border=true" alt="astrokotlin" /></a> </p>
 
@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astrokotlin&show_icons=true&locale=en&bg_color=010409&hide_border=true" alt="astrokotlin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astrokotlin&bg_color=010409&hide_border=true" alt="astrokotlin" /></p>
+<a><img src="https://github-readme-streak-stats.herokuapp.com?user=AstroKotlin&theme=transparent&hide_border=true&border_radius=0&date_format=n%2Fj%5B%2FY%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 

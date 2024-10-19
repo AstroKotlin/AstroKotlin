@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AstroKotlin AstroKotlin</h1>
+<h1 align="center">Hi 👋, I'm AstroKotlin</h1>
 <h3 align="center">I live and work in Asia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astrokotlin&label=Profile%20views&color=0e75b6&style=flat" alt="astrokotlin" /> </p>

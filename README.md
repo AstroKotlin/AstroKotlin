@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astrokotlin&label=Profile%20views&color=0e75b6&style=flat&bg_color=010409&hide_border=true" alt="astrokotlin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astrokotlin&bg_color=010409&hide_border=true" alt="astrokotlin" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=AstroKotlin&theme=oldie" />
 
 - 👨‍💻 All of my projects are available at [https://astrokotlin.github.io/](https://astrokotlin.github.io/)
 

@@ -22,7 +22,7 @@
 
 <p><img width="270px" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrokotlin&show_icons=true&locale=en&layout=compact&bg_color=010409&hide_border=true" alt="astrokotlin" /></p>
 
-<p>&nbsp;<img width="270px" src="https://github-readme-stats.vercel.app/api?username=astrokotlin&show_icons=true&locale=en&bg_color=010409&hide_border=true" alt="astrokotlin" /></p>
+<p><img width="270px" src="https://github-readme-stats.vercel.app/api?username=astrokotlin&show_icons=true&locale=en&bg_color=010409&hide_border=true" alt="astrokotlin" /></p>
 
 <a><img src="https://github-readme-streak-stats.herokuapp.com?user=AstroKotlin&theme=transparent&hide_border=true&border_radius=0&date_format=n%2Fj%5B%2FY%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" /></a>
 

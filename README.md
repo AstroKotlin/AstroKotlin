@@ -26,6 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astrokotlin&" alt="astrokotlin" /></p>
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 <!--<h2 align="left">Hi 👋! My name is AstroKotlin</h2>
 

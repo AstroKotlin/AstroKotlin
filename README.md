@@ -24,7 +24,7 @@
 
 <p><img width="300px" src="https://github-readme-stats.vercel.app/api?username=astrokotlin&show_icons=true&locale=en&bg_color=010409&hide_border=true" alt="astrokotlin" /></p>
 
-<img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=AstroKotlin&theme=transparent&hide_border=true&border_radius=0&date_format=n%2Fj%5B%2FY%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" />
+<img align="center" height="500px" src="https://github-readme-streak-stats.herokuapp.com?user=AstroKotlin&theme=transparent&hide_border=true&border_radius=0&date_format=n%2Fj%5B%2FY%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" />
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 

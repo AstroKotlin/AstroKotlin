@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm AstroKotlin</h1>
 
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astrokotlin&label=Profile%20views&color=0e75b6&style=flat&bg_color=010409&hide_border=true" alt="astrokotlin" /> </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=AstroKotlin&theme=oldie" />

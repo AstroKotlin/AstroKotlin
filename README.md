@@ -10,7 +10,7 @@
 
 - 📫 How to reach me? **tranhuybao000@gmail.com**
 
-- ⚡ Fun fact **I THINK I AM FUNKNY:>**
+- ⚡ Fun fact **I THINK I AM FUNNY:>**
 
 <a href="https://www.youtube.com/@astrokotlin"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   <a href="https://www.instagram.com/trhuyy.bao?igsh=MTllOWJ0ZGwzcHFkdg=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
